@@ -3,3 +3,4 @@ Cambio diferente desde main
 =======
 Cambio desde feature
 >>>>>>> feature
+Nueva línea para simular conflicto
