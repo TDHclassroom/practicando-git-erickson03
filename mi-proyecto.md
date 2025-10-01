@@ -7,7 +7,7 @@ Este es mi primer proyecto usando Git
 ## Información del proyecto
 Versión desarrollada en rama feature
 
-Editado desde GitHub (Check)
+Editado desde GitHub (Check) >> (Double Check)
 ## Características
 - Aprendiendo Git paso a paso
 Nueva línea de práctica para commits
