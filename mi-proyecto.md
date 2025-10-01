@@ -7,4 +7,4 @@ Este es mi primer proyecto usando Git
 ## Información del proyecto
 Versión desarrollada en rama feature
 
-Editado desde GitHub
+Editado desde GitHub (Check)
