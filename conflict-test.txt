@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio diferente desde main
+=======
+Cambio desde feature
+>>>>>>> feature
