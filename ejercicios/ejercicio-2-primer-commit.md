@@ -4,7 +4,6 @@
 Aprender a crear archivos, añadirlos al área de staging y hacer tu primer commit.
 
 ## Instrucciones
-
 1. Crea un archivo llamado `mi-proyecto.md` en la raíz del proyecto con el siguiente contenido:
    ```
    # Mi Proyecto Git
@@ -53,3 +52,4 @@ npm test ejercicio/2
 Si pasa todos los test, continúa con el siguiente ejercicio.
 
 ¡Excelente trabajo aprendiendo Git!
+
