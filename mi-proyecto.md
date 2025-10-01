@@ -8,3 +8,5 @@ Este es mi primer proyecto usando Git
 Versión desarrollada en rama feature
 
 Editado desde GitHub (Check)
+## Características
+- Aprendiendo Git paso a paso
